@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RandomizeText
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+RandomizeText
+=============
+
+A simple ruby gem that randomizes entered text
+>>>>>>> 1a8731911f4aa60d165b500fa784ceeabe66dbed
